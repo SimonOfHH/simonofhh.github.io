@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First blog post
+comments: true
 ---
 
 Hello ya'll! 
