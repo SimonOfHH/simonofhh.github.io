@@ -3,6 +3,7 @@ layout: post
 title: Download Helper for Dynamics 365 Business Central
 comments: true
 ---
+![Sample output with Verbose-switch](/images/posts/2020-1-5-D365BCDownloadHelper_01.png =250x)
 
 We all know these situations: you have a simple requirement and wonder anyway why you can't find an easy-to-use solution to solve it. That's why I created a little PowerShell-module which I'll describe here.
 
