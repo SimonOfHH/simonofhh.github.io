@@ -3,7 +3,21 @@ layout: post
 title: Download Helper for Dynamics 365 Business Central
 comments: true
 ---
-![Sample output with Verbose-switch](/images/posts/2020-1-5-D365BCDownloadHelper_01-small.png)
+**Update**
+
+**I wasn't sure at first, but now I came to the conclusion, that I like a regular Blog better than this one here**
+
+**Please navigate [here](https://simonofhh.tech/) for my blog and find this blog-post [here](https://simonofhh.tech/2020/01/05/download-helper-for-dynamics-365-business-central/)**
+
+**I'll remove this site in a couple of days**
+
+**Update**
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://simonofhh.tech/2020/01/05/download-helper-for-dynamics-365-business-central/</title>
+<meta http-equiv="refresh" content="0; URL=https://simonofhh.tech/2020/01/05/download-helper-for-dynamics-365-business-central/">
+<link rel="canonical" href="https://simonofhh.tech/2020/01/05/download-helper-for-dynamics-365-business-central/">
 
 We all know these situations: you have a simple requirement and wonder anyway why you can't find an easy-to-use solution to solve it. That's why I created a little PowerShell-module which I'll describe here.
 
